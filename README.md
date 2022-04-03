@@ -1,23 +1,22 @@
-# TÍTULO DO PROJETO
+# SISTEMA DE CONTROLE DE ENTREGA DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI)
+`CURSO SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET`
 
-`CURSO`
+`PROJETO APLICAÇÕES WEB`
 
-`DISCIPLINA`
-
-`SEMESTRE`
+`1° SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Vinicius Gomes Rangel
+* Rian Assis Sena
+* Marcielen Miriam Barbosa
+* Olival Paulino dos Santos Neto
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabiano Costa Teixeira
 
 ## Instruções de utilização
 
