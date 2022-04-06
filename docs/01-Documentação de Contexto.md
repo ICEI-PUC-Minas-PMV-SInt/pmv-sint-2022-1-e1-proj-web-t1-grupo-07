@@ -3,34 +3,26 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Considerando a agitada jornada de trabalho em pequenas, médias ou grandes empresas do setor industrial, existem grandes consequências, humanas e jurídicas, na não utilização de equipamentos de proteção individual (EPIs) adequados para determinada função/tarefa, prejudicando assim a segurança do colaborador e a reputação do empregador. Além disso, a falta de um sistema eficaz de controle de EPI's pode gerar desperdício e/ou perda de EPI's, causando mais prejuízos.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Implementar um sistema que gerencia, de maneira objetiva e eficiente, as entregas e devoluções de equipamentos de proteção individual (EPIs).
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### Objetivos Gerais
+
+<ul>
+ <li>Cadastrar usuários.</li>
+ <li>Gerenciar entregas e devoluçôes de EPI's.</li>
+ <li>Gerenciar baixa de EPI's.</li>
+ <li>Incentivar o uso de EPI's.</li>
+ <li>Viabilizar canal de comunicação com os usuários.</li>
+ <li>Implementar sistema de “assinatura digital” dos usuários para validação de entrega e devolução de EPI's.</li>
+ </ul>
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O que impulsionou a realização deste projeto foi entender que algumas empresas ainda não implementaram uma solução digital aos seus sistemas de controle de EPIs ou se utilizam de planilhas rudimentares para tal gerenciamento, gerando assim perda de EPI's, e sendo alvo de ações trabalhistas. Apresentamos como solução eficaz, um software para automatização, gerenciamento e validação de tal sistema de controle, para empresas que buscam otimizar e digitalizar seus processos tendo como base a Norma Regulamentadora 6 (NR6) do Ministério do Trabalho e Emprego (MTE).
 
 ## Público-Alvo
 
