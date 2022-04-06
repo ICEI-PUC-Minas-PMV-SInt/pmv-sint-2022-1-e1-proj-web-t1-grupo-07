@@ -5,7 +5,7 @@
 
 `1° SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Sistema que gerencia, de maneira objetiva e eficiente, as entregas e devoluções de equipamentos de proteção individual (EPIs).
 
 ## Integrantes
 
