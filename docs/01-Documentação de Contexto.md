@@ -15,7 +15,7 @@ Considerando a agitada jornada de trabalho em pequenas, médias ou grandes empre
 
 ## Objetivos
 
-Implementar um sistema que gerencia, de maneira objetiva e eficiente, as entregas e devoluções de equipamentos de proteção individual (EPIs).
+Implementar um sistema que gerencia e documenta, de maneira objetiva e eficiente, as entregas e devoluções de equipamentos de proteção individual (EPIs).
 
 ### Objetivos Gerais
 
@@ -26,24 +26,15 @@ Implementar um sistema que gerencia, de maneira objetiva e eficiente, as entrega
  <li>Incentivar o uso de EPI's.</li>
  <li>Viabilizar canal de comunicação com os usuários.</li>
  <li>Implementar sistema de “assinatura digital” dos usuários para validação de entrega e devolução de EPI's.</li>
- <li>Gerar relatórios</li>
+ <li>Gerar relatórios.</li>
  </ul>
 
 ## Justificativa
 
-O que impulsionou a realização deste projeto foi entender que algumas empresas ainda não implementaram uma solução digital aos seus sistemas de controle de EPIs ou se utilizam de planilhas rudimentares para tal gerenciamento, gerando assim perda de EPI's, e sendo alvo de ações trabalhistas. Apresentamos como solução eficaz, um software para automatização, gerenciamento e validação de tal sistema de controle, para empresas que buscam otimizar e digitalizar seus processos tendo como base a Norma Regulamentadora 6 (NR6) do Ministério do Trabalho e Emprego (MTE).
+O que impulsionou a realização deste projeto foi entender que algumas empresas ainda não implementaram uma solução digital aos seus sistemas de controle de EPIs ou utilizam planilhas rudimentares para tal gerenciamento, gerando assim, perda de EPI's, e sendo alvo de ações trabalhistas. Apresentamos como solução eficaz, um software para automatização, gerenciamento e validação legal de tal sistema de controle, para empresas que buscam otimizar e digitalizar seus processos tendo como base a Norma Regulamentadora 6 (NR6) do Ministério do Trabalho e Emprego (MTE).
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público central do sistema de entrega de EPIs, são empresas de pequeno, médio e grande porte, principalmente do setor industrial, que precisam dar segurança para os seus funcionários, com o propósito de assegurar que dentro do local de trabalho os riscos de vida são menores. 
 
 ## Estado da Arte
