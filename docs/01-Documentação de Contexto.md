@@ -38,3 +38,37 @@ O que impulsionou a realização deste projeto foi entender que algumas empresas
 O público central do sistema de entrega de EPIs, são empresas de pequeno, médio e grande porte, principalmente do setor industrial, que precisam dar segurança para os seus funcionários, com o propósito de assegurar que dentro do local de trabalho os riscos de vida são menores. 
 
 ## Estado da Arte
+
+Analisando as atuais soluções para o controle de EPIs, nota-se que já existem boas aplicações para o gerenciamento de equipamentos. Porém, tais soluções não estão totalmente difundidas no ambiente empresarial. Além disso,  ainda é possível encontrar soluções rudimentares passíveis de modernização, como planilhas e até mesmo check-lists impressas para preenchimento e assinatura a mão.
+
+A seguir, uma síntese dos principais sistemas encontrados hoje no mercado:
+
+<table>
+ <thead>
+  <tr>
+   <th>Imagens</th>
+   <th>Descrição</th>
+  </tr>
+ </thead>
+
+ <tbody>
+  <tr>
+   <td><img src="docs/img/planilha.png" width=500px></td>
+   <td width=500px>A planilha eletrônica é a solução mais popular e mais barata utilizada atualmente pelos gestores para controle de EPIs, apesar de ser a solução menos moderna.
+    Há vários exemplares disponíveis para download na Web. No entanto, não é a solução mais segura considerando que a validação legal depende da impressão e assinatura a mão, passível assim, de perda de arquivo. Além de não gerar relatórios automaticamente.</td>
+  </tr>
+
+  <tr>
+   <td><img src="docs/img/ssg.png" width=500px></td>
+   <td width=500px>Já o Software SSG, por exemplo, se apresenta como uma solução mais moderna e automatizada. Se preocupando com a validade legal do controle de entrega de EPIs. Ainda conta com sistema de validação por biometria e geração de relatórios. Entretanto, depende de um gadget leitor de impressão digital, e não conta com sistema integrado para dispositivos móveis. <br> <a href="https://sgg.net.br/controle-de-epi">https://sgg.net.br/controle-de-epi</a></td>
+  </tr>
+
+  <tr>
+   <td><img src="docs/img/banner-onsafety.png" width=500px></td>
+   <td width=500px>O Software OnSafety é um sistema Web integrado a aplicativo mobile, disponível na Play Store. As informações são sincronizadas em tempo real entre Web e Mobile, e gera relatórios automaticamente. No entanto o sistema de validação se faz via assinatura digital, deixando a desejar no quesito validação legal.<br> <a href="https://onsafety.com.br/">https://onsafety.com.br/</a></td>
+  </tr>
+ </tbody>
+ 
+</table>
+
+Sendo assim, faz-se necessário uma solução viável e barata, afim de suprir as lacunas deixadas por esses e outros sistemas disponíveis no mercado.
