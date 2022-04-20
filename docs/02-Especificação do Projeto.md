@@ -8,6 +8,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
+De acordo com pesquisas realizadas pelo Site monografia Brasil, foi possível informar que muitos trabalhadores não utilizam Equipamento de proteção. Segue um gráfico informando esses dados
+
+<img src="../docs/img/figura.png"/>
+
+As pessoas que seriam nossos futuros clientes se encaixam em 75,8%, pois além dos que não utilizam o EPI, seriam os que possuem o equipamento incompleto. 
+Este público em sua maioria seriam pessoas que trabalham em serviços que dediquem mais mão de obra, o desejo primordial de cada um, seria não se machucar dentro do trabalho, porque eles correm esse risco, Os Hobbies, se encaixariam em ver televisão e tentar descansar ao máximo, visto que o trabalho exige demais, os aplicativos mais usados seriam whatsApp, Instagram e Facebook, a causa disso seria para o próprio anuncio de trabalho, Hoje segundo o IBGE, mais de 50% das publicações em redes sociais são a respeito de trabalhos que o usuário faz.
+
 <table>
   <tr>
     <th>Foto</th>
@@ -91,7 +98,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
       <ul>
         <li>LinkedIn</li>
         <li>Whatsapp</li>
-        <li>FaceApp</li>
+        <li>Instagram</li>
       </ul>
     </td>
     <td>
