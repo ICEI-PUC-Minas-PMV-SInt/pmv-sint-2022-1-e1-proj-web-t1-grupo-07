@@ -8,19 +8,106 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+<table>
+  <tr>
+    <th>Foto</th>
+    <th>Descrição</th>
+    <th>Aplicativos</th>
+    <th>Motivações</th>
+    <th>Frustrações</th>
+    <th>Hobbies, História</th>
+  </tr>
+  <tr>
+    <td><img title="Ademário Barbosa" src="../docs/img/Ademário Barbosa.jpg"/></td>
+    <td>
+      <ul>
+        <li>Ademário Barbosa</li>
+        <li>43 anos.</li>
+        <li>Técnico eletricista em grande empresa de Construção Civil.</li>
+        <li>Mora em Juiz de Fora - MG.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Whatsapp</li>
+        <li>Facebook</li>
+        <li>Kwai</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Proteção para prevenir acidentes.</li>
+        <li>Contribuir para a segurança no ambiente de trabalho.</li>
+      </ul>
+    </td>
+    <td>
+        Está preocupado com sua segurança e integridade física.
+    </td>
+    <td>
+        Nasceu em Juiz de Fora - MG técnico em Elétrica predial com mais de 15 anos de experiência, é casado e têm dois filhos de 12 e 14 anos. Nas horas vagas adora passear com seus filhos em shoppings e parques, pratica pesca.
+    </td>
+  </tr>
+  <tr>
+    <td><img title="Fabiano Lopes" src="../docs/img/Fabiano Lopes.jpg"/>
+    </td>
+    <td>
+      <ul>
+        <li>Fabiano Lopes</li>
+        <li>33 anos</li>
+        <li>Gestor de Almoxarifado - Almoxarife</li>
+        <li>Niterói - RJ</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Facebook</li>
+        <li>Instagram</li>
+        <li>WhatsApp</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Entusiasta de tecnologia, busca melhores ferramentas para ajudar no otimização do seu trabalho.</li>
+        <li>Dedicado ao trabalho, visa ser reconhecido pela empresa em que trabalha. Busca ser promovido.</li>
+      </ul>
+    </td>
+    <td>
+        Se sente sobrecarregado com tantas tarefas e cobranças. Acredita que alguns processos podem ser otimizados através de soluções tecnológicas.</td>
+    <td>
+       Graduando de Administração pela UFF, 5 anos de experiência como almoxarife. Faz cursos intensivos online para se manter atualizado como Informática, Excel e Gestão de Estoque. 
+    </td>
+  </tr>
+  <tr>
+    <td><img title="Borges Zanotti" src="../docs/img/Borges Zanoti.jpg"/></td>
+    <td>
+      <ul>
+        <li>Borges Zanotti</li>
+        <li>41 anos</li>
+        <li>Proprietário de empresa de médio porte na área Industrial</li>
+        <li>São Paulo - SP</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>LinkedIn</li>
+        <li>Whatsapp</li>
+        <li>FaceApp</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Expandir seu empreendimento.</li>
+        <li>Empreender e criar novos postos de trabalho. </li>
+      </ul>
+    </td>
+    <td>
+        Alvo de processos judicias na vara trabalhista, está preocupado em conseguir comprovar que sua empresa respeita a NR6 e a legislação.
+    </td>
+    <td>
+        Formado em Engenharia pela USP. Sempre atendo as inovações do mercado e em busca de novas tecnologias. É casado, gosta de viajar com sua esposa.
+    </td>
+  </tr>
+</table>
 
 ## Histórias de Usuários
 
