@@ -12,6 +12,7 @@ Sistema que gerencia, de maneira objetiva e eficiente, as entregas e devoluçõe
 * Vinicius Gomes Rangel
 * Rian Assis Sena
 * Marcielen Miriam Barbosa
+* Felipe Augusto da Silva
 
 ## Orientador
 
