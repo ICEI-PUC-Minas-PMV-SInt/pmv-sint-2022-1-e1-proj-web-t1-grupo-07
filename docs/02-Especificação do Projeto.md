@@ -136,7 +136,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | ADMINISTRADOR | Precisa saber qual usuário está com qual EPI | Gerenciar quantidade de equipamentos vagos e em uso |
 | ADMINISTRADOR | Alterar permissões | Modificar, interagir e avaliar as contas |
 | ADMINISTRADOR | Bloquear usuário | O caso de não haver devolução dos EPI's |
-| ADMINISTRADOR |  |  |
 |  |  |  |
 
 
