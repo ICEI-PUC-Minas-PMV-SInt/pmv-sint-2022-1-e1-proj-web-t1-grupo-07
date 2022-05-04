@@ -119,20 +119,36 @@ Este público em sua maioria seriam pessoas que trabalham em serviços que dediq
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<!-- |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas | -->
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| USUÁRIO | Criar uma conta no sistema | Ter acesso aos EPI's |
+| USUÁRIO | Precisa saber quais EPI’s estão disponíveis | Para conseguir solicitar EPI’s que ele precisa |
+| USUÁRIO | Precisa agendar a retira dos equipamentos | Para conseguir retirar os EPI's |
+| USUÁRIO | Ver quais os equipamentos ele retirou  | Saber quais equipamentos estão em sua posse |
+| USUÁRIO | Agendar Devolução dos EPI's | Conseguir devolver os equipamentos que ele retirou |
+| USUÁRIO | Relatar um problema de forma fácil | Para reportar algum dano/problema com o EPI's que retirou |
+| USUÁRIO | Trocar de forma fácil EPI's com defeito | Para conseguir trocar o equipamento que após a retirada foi notado algum defeito |
+|  |  |  |
+| ADMINISTRADOR | Criar conta administradora no aplicativo | Gestão do sistema |
+| ADMINISTRADOR | Precisa saber qual usuário está com qual EPI | Gerenciar quantidade de equipamentos vagos e em uso |
+| ADMINISTRADOR | Alterar permissões | Modificar, interagir e avaliar as contas |
+| ADMINISTRADOR | Bloquear usuário | O caso de não haver devolução dos EPI's |
+| ADMINISTRADOR |  |  |
+|  |  |  |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+
+
+<!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/) -->
 
 ## Requisitos
 
