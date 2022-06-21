@@ -1,0 +1,80 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="styles/reset.css">
+  <title>Listagem de usuários</title>
+</head>
+<body>
+
+
+  <div style="display: flex; justify-content: space-between;">
+    <button style='
+            margin-top: 15px;
+            padding: 10px;
+            margin-left: 40px;
+            border-radius: 7px;
+            border: 2px solid black;
+            width: 200px;
+            height: 40px;
+            text-align: center;
+            align-items: center;'><a style="text-decoration: none; color: black;" href='./index.html'>Voltar</a></button>
+
+    <button style='background: blue;
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 7px;
+            border: 2px solid blue;
+            width: 200px;
+            margin-right: 40px;
+            height: 40px;
+            text-align: center;
+            align-items: center;'><a style="text-decoration: none; color: white;" href='./cadastro.html'>Cadastrar EPI</a></button>
+  </div>
+
+  <div style="display: flex; margin-right: 40px; border-radius: 10px 10px 0px 0px; margin-bottom: 1px; padding: 20px; margin-top: 60px; margin-left: 50px; justify-content: space-evenly; background: white; color: black">
+    <p>Nome do funcionário</p> 
+    <p>Equipamento que possui</p> 
+    <p>Cargo do funcionário</p> 
+  </div>
+  <div style="display: flex; border-radius: 0px 0px 10px 10px; margin-right: 40px; margin-bottom: 20px; padding: 20px; margin-left: 50px; justify-content: space-evenly; background: white; color: black">
+    <div id="lista"></div>
+    <div id="lista2"></div>
+    <div id="lista3"></div>
+  </div>
+  </table>
+
+  <script>
+    const stringFormValues = localStorage.getItem("formValues")
+
+    let parsedFormValues = JSON.parse(stringFormValues);
+      
+    let lista = document.querySelector('#lista');
+    let lista2 = document.querySelector('#lista2');
+    let lista3 = document.querySelector('#lista3');
+    let item;
+
+    parsedFormValues.forEach((n) => {
+        item = document.createElement('p')
+        item.textContent = n.nomeFuncionario
+        lista.appendChild(item).style.marginBottom = '15px'
+    })
+    parsedFormValues.forEach((n) => {
+        item = document.createElement('p')
+        item.textContent = n.equipamento
+        lista2.appendChild(item).style.marginBottom = '15px'
+    })
+    parsedFormValues.forEach((n) => {
+        item = document.createElement('p')
+        item.textContent = n.cargo
+        lista3.appendChild(item).style.marginBottom = '15px'
+    })
+
+    
+         
+  </script> 
+</body>
