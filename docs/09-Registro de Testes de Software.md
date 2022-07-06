@@ -15,8 +15,7 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 | ---- |
 | Entrei no site e fui diretamente no cadastro de epi, o botão que fica logo no início do sistema, cadastrei um equipamento facilmente e depois cliquei no voltar
 Quando voltei para a tela inicial, observei que tinha uma lista de equipamentos, então cliquei nela, e fui direcionada para os equipamentos que eu havia cadastrado.
-Na tela que lista os equipamentos, eu cliquei para cadastrar um novo equipamento, cadastrei e depois voltei para a tela inicial
- |
+Na tela que lista os equipamentos, eu cliquei para cadastrar um novo equipamento, cadastrei e depois voltei para a tela inicial|
 
 <br>
 
@@ -25,8 +24,7 @@ Na tela que lista os equipamentos, eu cliquei para cadastrar um novo equipamento
 | Entrou na tela inicial, viu que tinha um cadastrar equipamento e clicou, escreveu os dados do equipamento e confirmou o cadastro, após isso clicou no botão voltar
 Viu que tinha um cadastro de usuários, clicou nele e foi direcionada à tela de cadastro de usuários, cadastrou um usuário e depois voltou à tela inicial
 Clicou na lista de usuários visualizou a lista e voltou à tela inicial
-Clicou na listagem de equipamentos, visualizou a lista de equipamentos cadastrados e depois voltou à tela inicial
- |
+Clicou na listagem de equipamentos, visualizou a lista de equipamentos cadastrados e depois voltou à tela inicial|
 
 <br>
 
@@ -36,10 +34,10 @@ Clicou na listagem de equipamentos, visualizou a lista de equipamentos cadastrad
 Clicou na lista de usuários visualizou a lista e voltou à tela inicial
 Percebeu que tinha um cadastro de usuários e clicou no botão que o redirecionou à tela de cadastrar usuários, depois disso voltou à tela inicial
 Clicou na listagem de usuários, visualizou e voltou à tela inicial
-Clicou na listagem de equipamentos, visualizou a lista de equipamentos cadastrados e depois voltou à tela inicial
- |
+Clicou na listagem de equipamentos, visualizou a lista de equipamentos cadastrados e depois voltou à tela inicial|
 
 <br>
+
 | Teste realizado por Gustavo Henrique |
 | ---- |
 | De início, o botão “Cadastre seu EPI” chamou sua atenção; ele clicou no botão, foi redirecionado para a página de cadastro de EPI, preencheu os campos e salvou, clicou no botão de OK da pop-up e clicou em voltar. Após isso, ele rolou a página um pouco para baixo e clicou no botão “Cadastrar” (da parte de cadastro de EPI), cadastrou mais um EPI e clicou em salvar e clicou em voltar, sendo redirecionado para página inicial; após isso, clicou no botão “Visualizar” (da opção de lista de equipamentos), visualizou os equipamentos cadastrados e clicou em voltar, sendo levado para a página inicial. Na página inicial, ele clicou no botão “Cadastrar” (da opção de cadastro de funcionários), preencheu os dados do funcionário, clicou em salvar, clicou em OK na pop-up e clicou em voltar para ir para página inicial. Ao voltar para página inicial, clicou em “Visualizar” (da opção Lista de funcionários), visualizou o funcionário que havia cadastrado, e clicou em voltar para retornar para página inicial. Novamente na página inicial, ele clicou no botão “Visualizar” (das opções Importância do EPI e Sobre os Equipamentos) e foi redirecionado para um site contendo as respectivas informações. | 
